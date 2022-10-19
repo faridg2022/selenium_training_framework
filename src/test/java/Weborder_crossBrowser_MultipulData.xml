@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="pk_Selenium.Weborder_crossBrowser_MultipulData"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

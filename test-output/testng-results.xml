@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-28T08:32:25 GMT-04:00" name="Default suite" finished-at="2022-09-28T08:32:51 GMT-04:00" duration-ms="26287">
+    <groups>
+    </groups>
+    <test started-at="2022-09-28T08:32:25 GMT-04:00" name="Default test" finished-at="2022-09-28T08:32:51 GMT-04:00" duration-ms="26287">
+      <class name="pk_Selenium.Weborder_create_update">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:pk_Selenium.Weborder_create_update@17497425]" started-at="2022-09-28T08:32:25 GMT-04:00" name="LaunchBrowser" finished-at="2022-09-28T08:32:33 GMT-04:00" duration-ms="7352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="ValidLogin()[pri:1, instance:pk_Selenium.Weborder_create_update@17497425]" started-at="2022-09-28T08:32:33 GMT-04:00" name="ValidLogin" finished-at="2022-09-28T08:32:35 GMT-04:00" duration-ms="2027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+        <test-method signature="CreateOrder()[pri:2, instance:pk_Selenium.Weborder_create_update@17497425]" started-at="2022-09-28T08:32:35 GMT-04:00" name="CreateOrder" finished-at="2022-09-28T08:32:50 GMT-04:00" duration-ms="15781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateOrder -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:pk_Selenium.Weborder_create_update@17497425]" started-at="2022-09-28T08:32:50 GMT-04:00" name="afterTest" finished-at="2022-09-28T08:32:51 GMT-04:00" duration-ms="1058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- pk_Selenium.Weborder_create_update -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

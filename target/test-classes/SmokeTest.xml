@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="pk_Selenium.SmokeTest"/>
+       <class name="pk_Selenium.NetBanking"/>
+        <class name="pk_Selenium.Weborder_create_verifyOrder"/>
+         <class name="pk_Selenium.Weborder_Login_Using_Keyboard"/>
+          <class name="pk_Selenium.NetBanking_Alert"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
